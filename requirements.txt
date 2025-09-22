@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+opencv-python-headless
+numpy
+# ...any other packages
+
+# runtime.txt
+python-3.11
